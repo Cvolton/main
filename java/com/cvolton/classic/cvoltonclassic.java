@@ -20,12 +20,13 @@ public class cvoltonclassic {
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		ModItems.init();
+		ModRecipes.init();
 	}
 	
 	@Mod.EventHandler
 	public void Init(FMLInitializationEvent event)
 	{
-		ModRecipes.init();
+		
 	}
 	
 	@Mod.EventHandler
