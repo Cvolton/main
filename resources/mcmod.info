@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cvoltonclassic",
+  "name": "Classic Blocks for CvoltonPek",
+  "description": "Classic Blocks for CvoltonPek",
+  "version": "Alpha-V0.1.2",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cvolton"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

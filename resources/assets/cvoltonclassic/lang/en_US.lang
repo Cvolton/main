@@ -1,0 +1,12 @@
+item.classifier.name=Classic Transmutation Stone
+tile.cobbleclass.name=Classic Cobblestone
+itemGroup.classtab=Classic Items
+tile.grassclass.name=Classic Grass
+tile.cobbleclassstairs.name=Classic Cobblestone Stairs
+tile.diaclass.name=Classic Diamond Block
+tile.gravelclass.name=Classic Gravel
+tile.goldclass.name=Classic Gold Block
+tile.ironclass.name=Classic Iron Block
+tile.leavesclass.name=Classic Leaves
+tile.bricksclass.name=Classic Bricks
+tile.cobbleSlab.name=Classic Cobblestone Slab
