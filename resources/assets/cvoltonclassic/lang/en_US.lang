@@ -10,3 +10,6 @@ tile.ironclass.name=Classic Iron Block
 tile.leavesclass.name=Classic Leaves
 tile.bricksclass.name=Classic Bricks
 tile.cobbleSlab.name=Classic Cobblestone Slab
+tile.brickSlab.name=Classic Brick Slab
+tile.cobblemoss.name=Classic Mossy Cobblestone
+tile.bricksclassstairs.name=Classic Brick Stairs

@@ -6,7 +6,8 @@ import net.minecraft.item.ItemStack;
 
 import com.cvolton.classic.help.Reference;
 import com.cvolton.classic.init.ModItems;
-import com.cvolton.classic.init.ModRecipes;
+import com.cvolton.classic.init.ModRecipesClassic;
+import com.cvolton.classic.init.ModRecipesClassifier;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -20,7 +21,7 @@ public class cvoltonclassic {
 	public void preInit(FMLPreInitializationEvent event)
 	{
 		ModItems.init();
-		ModRecipes.init();
+		
 	}
 	
 	@Mod.EventHandler
@@ -32,7 +33,8 @@ public class cvoltonclassic {
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event)
 	{
-		
+		ModRecipesClassifier.init();
+		ModRecipesClassic.init();
 	}
 
 }
